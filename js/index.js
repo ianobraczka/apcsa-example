@@ -19,3 +19,4 @@ modeButton.addEventListener("click", function(){
 		mode = "black";
 	}
 });
+
